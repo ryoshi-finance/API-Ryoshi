@@ -1,6 +1,6 @@
 # Ryoshi Finance API
 
-[![Ryoshi API](https://i.ibb.co/VmZK7nT/ryoshi-API.png)](link to your URL)
+![Ryoshi Finance](https://i.ibb.co/VmZK7nT/ryoshi-API.png)
 
 
 The Ryoshi Finance API is a pivotal component of our platform, providing a wide array of essential functionalities for users and participants within the cryptocurrency and Ethereum token ecosystem. Below are the key features of this API:
