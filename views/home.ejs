@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>API RYOSHI</title>
+  </head>
+  <style media="screen">
+    body {
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 50%,
+    black 0%,
+    #23323c 50%
+  );
+}
+
+h1 {
+  color: white;
+  white-space: nowrap;
+  font-size: 5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1::before {
+  content: attr(data-heading);
+  position: absolute;
+  left: 0;
+  color: black;
+  width: 50%;
+  overflow: hidden;
+}
+
+  </style>
+  <body>
+
+    <h1 data-heading="API RYOSHI">API RYOSHI</h1>
+
+  </body>
+</html>
